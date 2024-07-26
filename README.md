@@ -2,7 +2,6 @@
 
 #Cloud9-For-Aws 
 
-Pause for a minute now and arrangement your Cloud9 improvement climate.
 ✅ Bit by bit Directions
 
 Go to the AWS The board Control center, click Administrations then, at that point, select Cloud9 under Designer Devices.
