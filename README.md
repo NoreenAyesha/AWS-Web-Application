@@ -16,6 +16,8 @@ When prepared, your IDE will open to a welcome screen. Underneath that, you ough
 
 You can run AWS CLI orders in here very much like you would on your nearby PC. Check that your client is signed in by running aws sts get-guest character.
 
+highlight-range{1, 4-6}
+
 aws sts get-caller-identity
 
 You'll see yield demonstrating your record and client data: 
